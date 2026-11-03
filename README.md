@@ -7,7 +7,7 @@ This project demonstrates data modelling, DAX calculations, data visualisation, 
 
 ## Dashboard Preview
 
-![E-commerce Sales Dashboard](Ecommerce_Sales_Dashboard.png)
+![E-commerce Sales Dashboard](Ecommerce_Sales_Dashboard.png.png)
 
 ## Tools & Technologies
 - Microsoft Power BI
